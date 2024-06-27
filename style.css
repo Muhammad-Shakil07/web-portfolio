@@ -1,0 +1,17 @@
+
+h1{
+    font-size: 50px;
+}
+.name-hihglight{
+    color: rgb(10, 234, 166);
+}
+.half-width{
+    width: 500px;
+    float: left;
+    margin-left: 4%;
+    padding-left: 2%;
+    
+}
+.half-width img{
+    width: 100%;
+}
